@@ -15,8 +15,10 @@ Website contains:
 - Contact
 - Footer
 - Magical Gallery
+- 
+![image](https://github.com/arisettysaiganesh/portfolio/assets/86103704/e372a72e-77d6-4547-aa51-618a6f570447)
 
-Uploading gallery.mp4…
+https://github.com/arisettysaiganesh/portfolio/assets/86103704/78758359-5b34-484a-9c90-ec52d9e78ba4
 
 
 
@@ -29,8 +31,17 @@ feel free to leave a star (much appreciated) fork it and customize as you like! 
 https://github.com/arisettysaiganesh/portfolio/assets/86103704/68528c38-da1a-4d99-b5b1-72bbefe81f52
 
 
-![image](https://github.com/arisettysaiganesh/portfolio/assets/86103704/e372a72e-77d6-4547-aa51-618a6f570447)
 
 
 
 - Inspired design by Bedimcode-Alexa design 🙌
+
+  ##Naughty Intractive ChatBot
+
+https://github.com/arisettysaiganesh/portfolio/assets/86103704/e709cfa7-280a-4048-9b26-af11da231fb8
+
+
+##**Magical Gallery**
+Uploading gallery.mp4…
+
+
