@@ -1,7 +1,8 @@
-## Responsive Portfolio Website ✨
+## Responsive Portfolio Website with an Intractive Chat Bot and Sparkling Pointer✨
 
-Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
+Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. and an naughty chatbot 
 Website contains: 
+- Chat Bot
 - Header 
 - Home
 - About
@@ -12,9 +13,24 @@ Website contains:
 - Project in mind
 - Testimonial
 - Contact
-- Footer 
+- Footer
+- Magical Gallery
+
+Uploading gallery.mp4…
+
+
+
+find Demo: https://arisettysaiganesh.github.io/portfolio/
 
 If u liked my website and the code was useful to you, <br>
 feel free to leave a star (much appreciated) fork it and customize as you like! :)
+
+
+https://github.com/arisettysaiganesh/portfolio/assets/86103704/68528c38-da1a-4d99-b5b1-72bbefe81f52
+
+
+![image](https://github.com/arisettysaiganesh/portfolio/assets/86103704/e372a72e-77d6-4547-aa51-618a6f570447)
+
+
 
 - Inspired design by Bedimcode-Alexa design 🙌
