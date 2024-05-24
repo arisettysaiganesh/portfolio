@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Chatbot</title>
+	<link rel="icon" href="packages/images/bot.png" />
+	<link rel="stylesheet" href="packages/css/style.css" />
+	<link rel="stylesheet" href="packages/css/promptstyle.css" />
+	 <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
+</head>
+
+<body>
+	<div class="floating-button">
+		<a href="index.html" class="btn">Main Page</a>
+	  </div>
+	<div id="container" class="container">
+		
+		<div id="chat" class="chat">
+			
+			<div id="messages" class="messages"></div>
+			
+			<input id="input" type="text" placeholder="Say something..." autocomplete="on" autofocus="true" />
+			<div class="scroll-box">
+			<ul class="list"></ul>
+		</div>
+		</div>
+		<div class="botpic">
+		<img src="packages/images/bot.png" alt="Robot cartoon" height="300vh">
+	</div>
+	</div>
+
+</body>
+<script type="text/javascript" src="index.js" ></script>
+<script type="text/javascript" src="constants.js" ></script>
+<script type="text/javascript" src="speech.js" ></script>
+
+</html>
