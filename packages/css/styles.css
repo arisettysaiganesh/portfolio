@@ -56,6 +56,32 @@
   --z-fixed: 100;
   --z-modal: 1000;
 }
+/* Styles for the floating button */
+.floating-button {
+  position: fixed;
+  top: 50vh; /* Adjust as needed */
+  right: 20px; /* Adjust as needed */
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+/* Styles for the button */
+.btn {
+  display: inline-block;
+
+   /* Change to your desired button color */
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  border-radius: 50%; /* Makes the button circular */
+  height: 100px;
+	width: 100px;
+  padding: 10px 10px;
+}
+
+/* Hover effect */
+.btn:hover {
+  background-color: #b2d0e0; /* Change to a darker shade */
+}
 
 /* Font size for large devices */
 @media screen and (min-width: 968px) {
