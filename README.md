@@ -20,7 +20,7 @@ Website contains:
 
 https://github.com/arisettysaiganesh/portfolio/assets/86103704/78758359-5b34-484a-9c90-ec52d9e78ba4
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4BibQ69MD8c?si=bOqRDHekK6hsfHyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 find Demo: https://arisettysaiganesh.github.io/portfolio/
 
